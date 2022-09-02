@@ -1,1 +1,19 @@
-
+{
+  "name": "vicky-portfolio",
+  "version": "1.0.0",
+  "description": "<hr>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codervicky143/portfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codervicky143/portfolio/issues"
+  },
+  "homepage": "https://github.com/codervicky143/portfolio#readme"
+}
